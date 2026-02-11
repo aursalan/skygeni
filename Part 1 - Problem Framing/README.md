@@ -7,6 +7,8 @@ The CRO is suffering from a **Vanity Metric** illusion. **Healthy pipeline volum
 
 **The Operational Impact:** Sales reps are wasting time on **zombie deals** instead of focusing on closable opportunities.
 
+---- 
+
 # 2. What key questions should an AI system answer for the CRO?
 > To solve this, the AI needs to move from **What happened?** to **Why?** and **What now?**.
 
@@ -18,6 +20,8 @@ The CRO is suffering from a **Vanity Metric** illusion. **Healthy pipeline volum
 
 **4. What is the single most effective action a rep can take today to save a specific deal?**
 
+---- 
+
 # 3. What metrics matter most for diagnosing win rate issues?
 > Standard **Win Rate** is a lagging indicator (it tells you you died 3 months ago). We need leading and diagnostic metrics.
 
@@ -28,6 +32,8 @@ The CRO is suffering from a **Vanity Metric** illusion. **Healthy pipeline volum
 **Win Rate by Cohort (Vintage Analysis):** Comparing the win rate of leads created in Q1 vs. Q2, rather than just closed in those quarters.
   
 **Deal Slippage Rate:** The percentage of deals that push their "expected close date" to the next month. High slippage = unhealthy pipeline.
+
+----
 
 # 4. What assumptions are you making about the data or business?
 
