@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+.Python
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
